@@ -65,7 +65,7 @@ class TextPreprocessor:
         text = text.lower()
 
         # Standardize quotes and dashes
-        text = re.sub(r'[“”]', '"', text)
+        text = re.sub(r"[“”]", '"', text)
         text = re.sub(r"[‘’]", "'", text)
         text = re.sub(r"—|–", "-", text)
 
@@ -169,7 +169,7 @@ class TextPreprocessor:
             total_words / total_sentences if total_sentences > 0 else 0
         )
 
-        most_common = Counter(words).most_common(10)
+        most_common = [word for word, count in Counter(words).most_common(10)]
 
         return {
             "total_characters": total_characters,

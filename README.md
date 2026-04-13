@@ -146,10 +146,10 @@ warmup-starter-repo/
 ```
 ---
 ## 🌐 Example URLs to Test
--BookURLPride and Prejudicehttps://www.gutenberg.org/files/1342/1342-0.txt
--Frankensteinhttps://www.gutenberg.org/files/84/84-0.txt
--Alice in Wonderlandhttps://www.gutenberg.org/files/11/11-0.txt
--Moby Dickhttps://www.gutenberg.org/files/2701/2701-0.txt
+- **Pride and Prejudice:** https://www.gutenberg.org/files/1342/1342-0.txt
+- **Frankenstein:** https://www.gutenberg.org/files/84/84-0.txt
+- **Alice in Wonderland:** https://www.gutenberg.org/files/11/11-0.txt
+- **Moby Dick:** https://www.gutenberg.org/files/2701/2701-0.txt
 ---
 ## 📬 Submission Instructions
 1. Complete all work in your **forked GitHub repository**
@@ -158,10 +158,10 @@ warmup-starter-repo/
 4. **Due: Tuesday, April 14, 2026 at 11:59 PM**
 ---
 ## 🆘 Common Issues
-**"Module not found" errors**: Run `pip install -r requirements.txt`
-**Network timeouts**: Project Gutenberg can be slow; add reasonable timeouts to your requests
-**Text encoding issues**: Project Gutenberg uses UTF-8; specify encoding when needed
-**Port already in use**: This project runs on port 5001 to avoid conflicts with macOS, which uses port 5000 by default. If 5001 is also taken, change the port in `app.py`
+- **"Module not found" errors**: Run `pip install -r requirements.txt`
+- **Network timeouts**: Project Gutenberg can be slow; add reasonable timeouts to your requests
+- **Text encoding issues**: Project Gutenberg uses UTF-8; specify encoding when needed
+- **Port already in use**: This project runs on port 5001 to avoid conflicts with macOS, which uses port 5000 by default. If 5001 is also taken, change the port in `app.py`
 ---
 ## 📚 Resources
 - [Flask Documentation](https://flask.palletsprojects.com/)

@@ -146,7 +146,10 @@ warmup-starter-repo/
 ```
 ---
 ## 🌐 Example URLs to Test
-BookURLPride and Prejudicehttps://www.gutenberg.org/files/1342/1342-0.txtFrankensteinhttps://www.gutenberg.org/files/84/84-0.txtAlice in Wonderlandhttps://www.gutenberg.org/files/11/11-0.txtMoby Dickhttps://www.gutenberg.org/files/2701/2701-0.txt
+BookURLPride and Prejudicehttps://www.gutenberg.org/files/1342/1342-0.txt
+Frankensteinhttps://www.gutenberg.org/files/84/84-0.txt
+Alice in Wonderlandhttps://www.gutenberg.org/files/11/11-0.txt
+Moby Dickhttps://www.gutenberg.org/files/2701/2701-0.txt
 ---
 ## 📬 Submission Instructions
 1. Complete all work in your **forked GitHub repository**
